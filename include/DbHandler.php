@@ -76,9 +76,7 @@ class DbHandler {
             $stmt->fetch();
             $stmt->close();
             $views=$views+1;
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-        $users[0]=$views;
-        $logger->debug('Got these users from the Database.', $users);
+
         $stmt = $this->conn->prepare(" UPDATE films f SET  f.views='$views'
                   where f.outer_id='$film_id'");
             $stmt->execute();
@@ -196,9 +194,7 @@ class DbHandler {
 
         $result = $stmt->execute();
 
-        $users[0]=$stmt->error;
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-        $logger->debug('Got these users from the Database.', $users);
+
         $stmt->close();
 
         if ($result) {
@@ -228,9 +224,7 @@ class DbHandler {
         if($stmt->execute()) {
             $stmt->bind_result($number);
             $stmt->fetch();
-            $users[0] = $number;
-            $logger = new Katzgrau\KLogger\Logger(__DIR__ . '/logs');
-            $logger->debug('Got these users from the Database.', $users);
+
             $stmt->close();
             if ($number > 0) {
                 return false;
@@ -242,9 +236,7 @@ class DbHandler {
             $stmt->bind_param("sssssiiiss", $name_ru, $name_en, $description, $janr, $country, $film_year,
                 $outer_id, $duration, $image_address, $producer);
             $result = $stmt->execute();
-            $users[0] = $stmt->error;
-            $logger = new Katzgrau\KLogger\Logger(__DIR__ . '/logs');
-            $logger->debug('Got these users from the Database.', $users);
+
             $stmt->close();
             if ($result)
 
@@ -296,9 +288,7 @@ class DbHandler {
 
         $result = $stmt->execute();
 
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
 
-        $logger->debug('Got these users from the Database.', $users);
         $stmt->close();
 
         if ($result)
@@ -372,9 +362,7 @@ class DbHandler {
     }
     public function getProfile($user_id) {
         $stmt = $this->conn->prepare("SELECT u.name, u.surname, u.nickname, u.email, u.short_info, u.avatar_image, u.status  FROM users u WHERE id = ?");
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-        $a[0]=$stmt;
-        $logger->debug('Got these users from the Database.', $a);
+
         $stmt->bind_param("i", $user_id);
 
         if ($stmt->execute()) {
@@ -600,9 +588,7 @@ class DbHandler {
         $publishers=$stmt->get_result();
 
         $stmt->close();
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-        $users[0]=$user_id;
-        $logger->debug('Got these users from the Database.', $users);
+
         return $publishers;
     } else {
         $stmt->close();
@@ -615,10 +601,7 @@ class DbHandler {
 //        $stmt = $this->conn->prepare("SELECT r.film_id, r.user_id, r.review_text, r.created_at, r.review_type FROM review r WHERE r.created_at>? AND r.review_type=? AND  r.user_id IN (".implode(',',$publishers_array).")");
         $stmt = $this->conn->prepare("SELECT r.film_id, r.user_id, r.review_text, r.created_at, r.review_type, f.views FROM review r, films f WHERE r.created_at>? AND r.review_type=? AND r.film_id=f.outer_id AND  r.user_id IN (".implode(',',$publishers_array).")");
         $review_type=1;
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
 
-        $users[0]=$publishers_array;
-        $logger->debug('Got these users from the Database.', $users);
         $review_type=1;
         $stmt->bind_param("si", $last_film_date, $review_type);
 
@@ -639,9 +622,7 @@ class DbHandler {
         $stmt->bind_param("i", $user_id);
         $stmt->execute();
         $tasks = $stmt->get_result();
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-        $users[0]=$tasks;
-        $logger->debug('Got these users from the Database.', $users);
+
         $stmt->close();
         return $tasks;
     }
@@ -664,13 +645,13 @@ class DbHandler {
         return $num_affected_rows > 0;
     }
     public function createTask($user_id, $task) {
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
+
         $film_data=[];
         $stmt = $this->conn->prepare("INSERT INTO tasks(task) VALUES(?)");
 
         $stmt->bind_param("s", $task);
         $film_data[0]=$stmt;
-        $logger->debug('Got these users from the Database.', $film_data);
+
         $result = $stmt->execute();
         $stmt->close();
 
@@ -726,8 +707,7 @@ class DbHandler {
         $stmt = $this->conn->prepare("DELETE from review  WHERE user_id='$user_id' AND film_id='$film_id'");
 
         $users[0]=$stmt->error;
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-        $logger->debug('Got these users from the Database.', $users);
+
         $result = $stmt->execute();
 
         $stmt->fetch();
@@ -748,8 +728,7 @@ class DbHandler {
         $stmt = $this->conn->prepare("DELETE from subscribes  WHERE user_subscriber='$user_id' AND user_publisher='$publisher'");
 
         $users[0]=$stmt->error;
-        $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-        $logger->debug('Got these users from the Database.', $users);
+
         $result = $stmt->execute();
 
         $stmt->fetch();
@@ -793,8 +772,7 @@ class DbHandler {
 //            $stmt->bind_result($number);
 //            $stmt->fetch();
 //            $user[0]=$film_id;
-//            $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-//            $logger->debug('Got these users from the Database.', $users);
+
 //            $stmt->close();
 //            if($number>0){return null;}
 //

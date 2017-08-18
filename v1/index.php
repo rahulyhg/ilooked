@@ -173,9 +173,7 @@ $app->post('/getfilmslist', 'authenticate', function() use ($app){
     }catch (Exception $exception){
         echoResponse(200, $exception);
     }
-    $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-    $users[0]="asasasas";
-    $logger->debug('Got these users from the Database.', $users);
+
     if($data['filmslist']==null){
         $response['error']=true;
         $response['message']="Empty input";
@@ -403,12 +401,7 @@ $app->post('/uploadfilm', function() use ($app)
     $name = uniqid('img-' . date('YMdHi') . '-');
     $image_address=pic_image.'/'.$name;
 
-    $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-    //    move_uploaded_file($files['tmp_name'], pic_image.'/'.$name);
-    //  $file_content = file_get_contents($files['tmp_name']);
-//  $encoded_image = base64_encode($file_content);
-//    $users[0]=$film_id;$users[1]=$film_name;$users[2]=$film_description;$users[3]=$film_year;$users[4]=$image_address;
-//    $logger->debug('Got these users from the Database.', $users);
+;
 
     $data = array($film_name_ru, $film_name_en, $film_description,
         $film_janr, $film_strana, $film_year,
@@ -420,7 +413,7 @@ $app->post('/uploadfilm', function() use ($app)
 
     if ($res != NULL) {
         $users[0]=$res;
-        $logger->debug('Got these users from the Database.', $users);
+
         $response["error"] = false;
         $response["message"] = "submited successfully";
         move_uploaded_file($files['tmp_name'], pic_image.'/'.$name);
@@ -470,8 +463,7 @@ $app->post('/updateprofile', 'authenticate', function() use ($app)
     if(empty($nickname)){$nickname="empty";}
     if(empty($short_info)){$short_info="empty";}
 //    $users[0]=$name;
-    $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-    $logger->debug('Got these users from the Database.', $users);
+
 
     $image_address="empty";
     if($files!="empty") {
@@ -480,12 +472,7 @@ $app->post('/updateprofile', 'authenticate', function() use ($app)
         $image_address = pic_image . '/' . $picname;
     }
 
-//    $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-    //    move_uploaded_file($files['tmp_name'], pic_image.'/'.$name);
-    //  $file_content = file_get_contents($files['tmp_name']);
-//  $encoded_image = base64_encode($file_content);
-//    $users[0]=$film_id;$users[1]=$film_name;$users[2]=$film_description;$users[3]=$film_year;$users[4]=$image_address;
-//    $logger->debug('Got these users from the Database.', $users);
+
 
     $data = array($name, $surname, $nickname, $short_info, $user_id, $image_address);
 
@@ -494,8 +481,7 @@ $app->post('/updateprofile', 'authenticate', function() use ($app)
     $res = $db->updateProfile($data);
 
     if ($res != NULL) {
-//        $users[0]=$res;
-//        $logger->debug('Got these users from the Database.', $users);
+
         $response["error"] = false;
         $response["message"] = "submited successfully";
         $response["user_id"]=$user_id;
@@ -842,13 +828,7 @@ $app->post('/delete_subscription', 'authenticate', function() use ($app) {
 //    //    }
 //    //  define('pic_image',$path1."/v1/uploads");
 //    //  move_uploaded_file($files['tmp_name'], pic_image.'/'.$name);
-//    //    $logger = new Katzgrau\KLogger\Logger(__DIR__.'/logs');
-//    //    $users[0]=$file_content;
-//    //    $logger->debug('Got these users from the Database.', $users);
-////      }
-//
-//    echoResponse(200, $file_content);
-//});
+
 function authenticate(\Slim\Route $route) {
     // Getting request headers
     $headers = apache_request_headers();
