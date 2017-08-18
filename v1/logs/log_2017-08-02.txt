@@ -1,0 +1,130 @@
+[2017-08-02 3:45:55.702985] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 3:45:55.904357] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 3:45:55.905014] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 5:09:12.281552] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 5:21:05.863784] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 5:21:06.768040] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 5:23:49.452652] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 5:30:41.181452] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 5:31:35.432548] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 9:49:54.572451] [debug] Got these users from the Database.
+    0: 10
+[2017-08-02 9:51:15.139148] [debug] Got these users from the Database.
+    0: 10
+[2017-08-02 9:52:33.659564] [debug] Got these users from the Database.
+    0: 10
+[2017-08-02 9:54:32.381072] [debug] Got these users from the Database.
+    0: 10
+[2017-08-02 9:55:49.324233] [debug] Got these users from the Database.
+    0: 10
+[2017-08-02 11:05:38.452322] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 11:05:57.631534] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 11:06:13.852458] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 11:06:27.789750] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 11:06:38.804606] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 11:09:35.620697] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 11:09:35.724303] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 11:13:48.756191] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:09:11.874211] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:09:14.614815] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:15:03.103070] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:15:08.436259] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:15:18.870613] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:19:36.875574] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:38:05.796596] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:44:05.277504] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:56:55.860913] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 12:59:40.842658] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 13:51:23.940571] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 13:51:25.001394] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 13:53:25.063888] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 13:54:53.709465] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 14:06:31.989152] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 14:10:39.644510] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 14:13:00.899578] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 17:06:13.649326] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 17:12:38.949094] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 17:58:54.457293] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:02:34.494702] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:14:18.854342] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:14:57.350284] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:15:12.408184] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:17:26.245714] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:24:31.006858] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:26:47.938597] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:28:13.422765] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:28:13.441225] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:30:39.334816] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:30:39.400378] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:31:16.358757] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:31:16.399287] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:31:44.979665] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:31:45.010391] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:34:19.390722] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:35:49.441756] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:37:35.769895] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:39:23.232203] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:44:56.580796] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:46:26.709397] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:46:44.699472] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-02 18:47:14.996056] [debug] Got these users from the Database.
+    0: 'asasasas'

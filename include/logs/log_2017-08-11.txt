@@ -1,0 +1,1776 @@
+[2017-08-11 2:55:46.437659] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 2:55:46.502782] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 2:55:58.710321] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 3:41:54.893028] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 3:41:54.893357] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:11:55.529186] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:11:55.575195] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:11:56.149630] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:11:56.150643] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:11:57.368134] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:11:57.368556] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:12:14.870378] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:14:10.333337] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:14:10.333985] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:14:11.453346] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:14:11.610187] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:14:11.735239] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:14:11.735258] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:14:14.639094] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:14:57.934696] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:14:57.935067] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:16:24.006009] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:16:24.006999] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:20:24.887784] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:20:24.888509] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:20:25.769056] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:20:25.773055] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:20:25.889833] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:20:25.890229] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:20:34.529035] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:20:34.529778] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:20:36.914963] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:20:36.916029] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:20:38.253664] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:20:38.254025] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:20:41.924623] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:20:43.305444] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:20:43.306016] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:20:51.139363] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:20:51.139939] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:21:18.943295] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:21:18.943749] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:43:11.316193] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:43:11.316508] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:43:11.807846] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:43:11.808624] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:43:11.814160] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:43:11.814455] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:43:14.960134] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:43:17.997123] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:43:17.998158] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:43:25.110018] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:43:25.110507] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:43:42.035371] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:43:43.268457] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:43:43.268975] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:44:19.951050] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:44:19.951715] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:49:21.036925] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:49:21.037847] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:55:42.750663] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:55:42.751072] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:55:45.544986] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:56:20.742840] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:56:20.743210] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:56:27.581218] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:57:29.219408] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:57:29.219774] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:57:31.724464] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:58:04.174815] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:58:04.175488] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:58:07.002010] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:58:41.916687] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:58:41.917196] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:58:44.574053] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 4:59:44.747689] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:59:44.748157] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:59:45.153850] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:59:45.154465] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:59:45.167380] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 4:59:45.168025] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 4:59:46.317018] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:14:06.324469] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 5:14:06.325134] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 5:14:07.065464] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 5:14:07.065944] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 5:14:07.097676] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 5:14:07.099087] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 5:14:08.556869] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:14:14.229728] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:14:16.266541] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:17:38.230422] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:17:39.665657] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:17:50.085890] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 5:17:50.086581] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 5:18:08.423769] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:19:08.211525] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 5:19:08.212014] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 5:19:56.728638] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:27:14.741755] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 5:27:14.742352] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 5:27:34.426614] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:35:21.497883] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 5:35:21.498363] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 5:36:28.346206] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:36:30.798451] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:36:32.122816] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:36:33.816047] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:36:34.960100] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:39:30.125302] [debug] Got these users from the Database.
+    0: 2
+[2017-08-11 5:39:31.673991] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:42:52.491260] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 5:42:52.491456] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 5:43:01.477794] [debug] Got these users from the Database.
+    0: 28
+[2017-08-11 5:43:01.478070] [debug] Got these users from the Database.
+    0: array(
+        0 => '27',
+        1 => '31',
+    )
+[2017-08-11 5:43:02.148236] [debug] Got these users from the Database.
+    0: 28
+[2017-08-11 5:43:02.149370] [debug] Got these users from the Database.
+    0: array(
+        0 => '27',
+        1 => '31',
+    )
+[2017-08-11 5:43:28.112128] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:43:49.276515] [debug] Got these users from the Database.
+    0: 31
+[2017-08-11 5:43:49.277329] [debug] Got these users from the Database.
+    0: array(
+        0 => '30',
+    )
+[2017-08-11 5:43:49.831042] [debug] Got these users from the Database.
+    0: 31
+[2017-08-11 5:43:49.842664] [debug] Got these users from the Database.
+    0: 31
+[2017-08-11 5:43:49.842906] [debug] Got these users from the Database.
+    0: array(
+        0 => '30',
+    )
+[2017-08-11 5:43:49.859494] [debug] Got these users from the Database.
+    0: array(
+        0 => '30',
+    )
+[2017-08-11 5:43:55.990583] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:47:16.720751] [debug] Got these users from the Database.
+    0: 31
+[2017-08-11 5:47:16.720999] [debug] Got these users from the Database.
+    0: array(
+        0 => '30',
+    )
+[2017-08-11 5:47:19.549658] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:47:31.629631] [debug] Got these users from the Database.
+    0: 31
+[2017-08-11 5:47:31.630495] [debug] Got these users from the Database.
+    0: array(
+        0 => '30',
+    )
+[2017-08-11 5:47:33.222171] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:52:18.420840] [debug] Got these users from the Database.
+    0: 31
+[2017-08-11 5:52:18.428442] [debug] Got these users from the Database.
+    0: array(
+        0 => '30',
+    )
+[2017-08-11 5:54:34.446727] [debug] Got these users from the Database.
+    0: 46
+[2017-08-11 5:54:36.897274] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:59:46.019217] [debug] Got these users from the Database.
+    0: 30
+[2017-08-11 5:59:47.688102] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 5:59:57.985542] [debug] Got these users from the Database.
+    0: 46
+[2017-08-11 5:59:59.572613] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 6:46:02.590785] [debug] Got these users from the Database.
+    0: 46
+[2017-08-11 6:49:23.156434] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 6:49:23.158514] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 6:49:23.837286] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 6:49:23.838551] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 6:49:33.015670] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 6:50:59.031198] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 6:52:47.786915] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 6:53:00.236016] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 6:53:00.236239] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 6:56:31.447518] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 6:56:31.473371] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 6:56:32.871186] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 6:56:32.871422] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 6:56:33.192795] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 6:56:33.193173] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 6:57:01.184533] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 6:57:01.738770] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 6:57:01.738992] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:09:52.821191] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:09:52.828394] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:10:12.745196] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:10:12.745651] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:10:20.735665] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:10:20.735941] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:11:01.762656] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:11:22.177711] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:11:22.178381] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:11:24.785391] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:11:24.785695] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:11:34.376744] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:11:38.310014] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:11:38.310312] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:11:38.869951] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:11:38.870206] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:11:46.638103] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:11:46.638390] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:12:10.133660] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:12:10.134196] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:12:25.686323] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:12:25.686609] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:12:38.345985] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:12:41.438652] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:12:41.438921] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:12:48.882416] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:12:48.882688] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:12:58.405643] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:12:58.405911] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:13:34.985889] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:16:41.700014] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:16:41.700511] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:16:43.214317] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:16:43.214560] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:16:47.674711] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:16:47.674984] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:17:22.276978] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:17:43.959533] [debug] Got these users from the Database.
+    0: 5
+[2017-08-11 7:17:45.778301] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:17:59.289640] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:18:15.762753] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:18:15.763029] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:18:55.462625] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:18:55.463161] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:18:58.292260] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:18:58.292592] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:43:57.532866] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:43:57.533152] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:44:23.524900] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:44:23.525140] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 7:44:28.043288] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:45:01.729811] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 7:45:30.024729] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 7:45:30.025216] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 8:48:40.582307] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 8:48:40.624154] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 8:48:53.495923] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 8:50:32.103100] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 8:50:32.104147] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 8:50:33.600753] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 8:50:33.601030] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 8:50:33.922859] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 8:50:33.923127] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 8:50:46.344221] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 8:50:46.344773] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 8:50:48.354135] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 8:51:45.749628] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 8:51:48.441999] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 8:58:28.641318] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 8:58:28.641758] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:08:14.740230] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:08:14.808202] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:10:11.317187] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:10:11.319127] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:10:50.055632] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:10:50.055967] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:12:14.751261] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:12:14.753022] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:14:24.940367] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:14:24.950762] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:15:35.569564] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:15:35.570607] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:15:36.708317] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:15:36.719964] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:17:12.200254] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:17:12.200741] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:17:13.107988] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:17:13.108540] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:19:49.196033] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:19:49.196691] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:19:49.700391] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:19:49.701436] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:49:46.779556] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:49:46.794979] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:49:53.252927] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:49:53.253192] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 9:58:32.295531] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 9:58:32.297579] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:01:25.904638] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:01:25.920320] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:02:27.004252] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:02:27.005057] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:10:34.112627] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:10:34.153716] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:12:15.296804] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:12:15.297619] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:24:59.657197] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:24:59.657749] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:26:19.764204] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:26:19.765311] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:32:29.176888] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:32:29.177570] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:33:36.655823] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:33:36.657104] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:40:56.310645] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:40:56.311511] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:41:47.134223] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:41:47.141879] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:44:57.328259] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:44:57.329127] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:46:55.512674] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:46:55.513287] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:47:30.847733] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:47:30.851480] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:47:41.027846] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:47:41.028644] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:49:15.666477] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:49:15.667661] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 10:50:30.342977] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 10:51:08.659540] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 10:51:22.588391] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 10:51:25.539586] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 10:51:28.042830] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 10:52:00.034010] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 10:52:00.041536] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 11:03:36.773931] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 11:03:36.791215] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 11:05:22.416054] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 11:05:22.416994] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 11:07:08.201304] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 11:07:08.202248] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 11:12:56.181422] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 11:12:56.181829] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 11:13:30.345710] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 11:13:30.362059] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 11:13:35.353919] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 11:13:35.354350] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 15:17:05.277992] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 15:17:05.311007] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 15:17:38.731363] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 15:17:38.732825] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 15:27:47.571322] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 15:27:47.572357] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 15:27:48.281368] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 15:27:48.314841] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 15:29:52.580662] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 15:29:52.581579] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 15:29:53.075318] [debug] Got these users from the Database.
+    0: 27
+[2017-08-11 15:29:53.077392] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '32',
+    )
+[2017-08-11 15:34:15.490367] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 15:34:17.605048] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))
+[2017-08-11 15:34:19.962168] [debug] Got these users from the Database.
+    0: mysqli_stmt::__set_state(array(
+         'affected_rows' => NULL,
+         'insert_id' => NULL,
+         'num_rows' => NULL,
+         'param_count' => NULL,
+         'field_count' => NULL,
+         'errno' => NULL,
+         'error' => NULL,
+         'error_list' => NULL,
+         'sqlstate' => NULL,
+         'id' => NULL,
+    ))

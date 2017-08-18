@@ -1,0 +1,12 @@
+[2017-07-25 2:48:23.065618] [debug] Got these users from the Database.
+    0: 'still not'
+[2017-07-25 2:48:36.182261] [debug] Got these users from the Database.
+    0: 'still not'
+[2017-07-25 2:48:43.763519] [debug] Got these users from the Database.
+    0: 'still not'
+[2017-07-25 2:48:52.773804] [debug] Got these users from the Database.
+    0: 'still not'
+[2017-07-25 3:11:55.419536] [debug] Got these users from the Database.
+    0: 'still not'
+[2017-07-25 5:56:45.974216] [debug] Got these users from the Database.
+    0: 'still not'

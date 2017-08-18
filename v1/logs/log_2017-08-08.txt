@@ -1,0 +1,8 @@
+[2017-08-08 4:10:37.680221] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-08 4:10:38.719434] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-08 4:11:21.599441] [debug] Got these users from the Database.
+    0: 'asasasas'
+[2017-08-08 4:13:21.470948] [debug] Got these users from the Database.
+    0: 'still not'

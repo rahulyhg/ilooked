@@ -1,0 +1,1024 @@
+[2017-07-30 5:13:09.585386] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:13:09.586539] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:16:39.956561] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:16:39.957261] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:18:53.401757] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:18:53.402358] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:29:35.477076] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:29:35.477967] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:31:33.444204] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:31:33.444777] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:34:41.368838] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:34:41.369085] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:36:28.248161] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:36:28.248402] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:38:07.290216] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:38:07.290512] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:39:41.505930] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:39:41.506201] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 5:42:57.459671] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 5:42:57.459975] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:10:39.596781] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:10:39.597024] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:12:04.322880] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:12:04.323268] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:21:24.409768] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:21:24.410094] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:22:03.565474] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:22:03.565970] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:22:52.529479] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:22:52.529966] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:25:52.451801] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:25:52.452177] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:27:48.754497] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:27:48.754853] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:30:03.601963] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:30:03.602176] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:30:38.369689] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:30:38.369915] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:31:14.451997] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:31:14.452223] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:50:00.623558] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:50:00.624413] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:53:58.406081] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:53:58.406384] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:54:57.420595] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:54:57.420808] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:55:32.635386] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:55:32.635735] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:55:50.650953] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:55:50.651701] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 6:56:44.712876] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 6:56:44.713232] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:02:30.649040] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:02:30.693567] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:04:51.824028] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:04:51.824656] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:08:06.252973] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:08:06.254398] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:09:21.790916] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:09:21.791357] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:09:36.959264] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:09:36.959955] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:10:14.477719] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:10:14.477966] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:12:48.797007] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:12:48.805664] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:14:21.193240] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:14:21.193588] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:14:47.721668] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:14:47.722013] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:15:15.841041] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:15:15.841363] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:19:17.758151] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:19:17.759007] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:19:44.704289] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:19:44.704560] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:20:27.878444] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:20:27.878825] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:21:07.833410] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:21:07.833715] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:21:32.302557] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:21:32.302814] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:21:58.243766] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:21:58.244009] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:22:16.377505] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:22:16.377959] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:22:42.278587] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:22:42.278906] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:23:21.845753] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:23:21.846592] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:23:32.825723] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:23:32.826385] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:23:37.144076] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:23:37.144797] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:24:20.686244] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:24:20.686594] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:26:29.008639] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:26:29.008835] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:27:08.960012] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:27:08.960360] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:43:28.641743] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:43:28.642947] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:44:35.407495] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:44:35.407798] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:47:33.438524] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:47:33.438918] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:57:12.382333] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:57:12.382709] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 7:59:15.888477] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 7:59:15.888737] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:08:48.122054] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:08:48.122561] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:09:35.197143] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:09:35.197442] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:09:50.636513] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:09:50.636853] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:15:47.249381] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:15:47.249833] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:17:04.723210] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:17:04.723575] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:19:24.171734] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:19:24.172146] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:19:41.605726] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:19:41.605974] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:20:25.443151] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:20:25.443504] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:21:44.896430] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:21:44.905137] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:22:54.014611] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:22:54.015045] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:24:31.306449] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:24:31.307064] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:33:06.839641] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:33:06.839927] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:35:58.107709] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:35:58.108015] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:38:30.768987] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:38:30.769370] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:42:01.580857] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:42:01.588946] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:43:10.870635] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:43:10.871067] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:43:47.509989] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:43:47.519387] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:45:00.560115] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:45:00.560725] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:46:15.058078] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:46:15.058418] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:46:55.634144] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:46:55.635446] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:48:06.259171] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:48:06.259632] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:48:58.606702] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:48:58.623800] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:51:40.735308] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:51:40.739960] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:52:02.113759] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:52:02.114821] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:53:43.690840] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:53:43.692315] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:56:53.820967] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:56:53.821491] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 8:57:59.608261] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 8:57:59.619565] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 9:01:43.551397] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 9:01:43.551764] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 9:05:22.860474] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 9:05:22.861407] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 9:07:28.578083] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 9:07:28.578500] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 9:09:26.831140] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 9:09:26.851092] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 9:10:48.367084] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 9:10:48.367547] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 9:12:05.527147] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 9:12:05.527839] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:01:21.383040] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:01:21.383794] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:04:43.226641] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:04:43.227075] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:08:29.212013] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:08:29.213294] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:09:50.840466] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:09:50.840795] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:10:43.223889] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:10:43.224327] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:13:19.061220] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:13:19.061515] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:17:47.498409] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:17:47.514559] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:23:40.817200] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:23:40.817466] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:24:06.932286] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:24:06.932534] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:24:54.479420] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:24:54.479757] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:26:50.266704] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:26:50.271825] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:27:46.940512] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:27:46.941926] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:29:24.291960] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:29:24.304299] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:29:57.049098] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:29:57.049921] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:30:39.727901] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:30:39.984292] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:33:27.667644] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:33:27.667937] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:34:23.941072] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:34:23.941400] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:35:05.956641] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:35:05.956959] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 10:55:14.307077] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 10:55:14.307364] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:15:32.996584] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:15:32.997114] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:16:48.927844] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:16:48.928535] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:17:24.473619] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:17:24.473937] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:17:53.005518] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:17:53.006391] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:20:09.881084] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:20:09.881480] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:20:13.247553] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:20:13.247967] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:34:06.182580] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:34:06.183142] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:35:52.704020] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:35:52.705125] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:36:45.167685] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:36:45.168042] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:39:09.413734] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:39:09.414307] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:41:10.864509] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:41:10.865490] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:53:08.226864] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:53:08.461920] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:54:10.190815] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:54:10.192200] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:55:33.362184] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:55:33.362647] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 11:56:15.966514] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 11:56:15.966845] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 12:06:18.999103] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 12:06:19.000185] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 12:07:03.814723] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 12:07:03.815126] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 12:07:47.695935] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 12:07:47.696419] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 12:08:30.349843] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 12:08:30.366314] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 12:10:26.826142] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 12:10:26.826438] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
+[2017-07-30 13:06:17.024621] [debug] Got these users from the Database.
+    0: 27
+[2017-07-30 13:06:17.070450] [debug] Got these users from the Database.
+    0: array(
+        0 => '28',
+        1 => '29',
+        2 => '30',
+    )
