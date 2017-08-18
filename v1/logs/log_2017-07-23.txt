@@ -1,6 +1,0 @@
-[2017-07-23 10:58:18.214023] [debug] Got these users from the Database.
-    0: 10
-[2017-07-23 16:14:29.164041] [debug] Got these users from the Database.
-    0: 10
-[2017-07-23 16:18:53.979229] [debug] Got these users from the Database.
-    0: 10
