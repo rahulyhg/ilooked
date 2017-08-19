@@ -1,5 +1,12 @@
 {
     "require": {
-
-    }
+        "pear/http_request2": "^2.3"
+    },
+    "repositories": [
+        {
+            "type": "pear",
+            "url": "http://pear.php.net"
+        }
+    ],
+    "minimum-stability": "dev"
 }
